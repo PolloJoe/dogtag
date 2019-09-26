@@ -1,0 +1,58 @@
+body {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	margin: 0;
+}
+
+.green {
+	background-color: #008D24;
+}
+
+.light_blue {
+	background-color: #0B69C0;
+}
+
+.purple {
+	background-color: #3A246D;
+}
+
+.red {
+	background-color: #CA1B22;
+}
+
+.orange {
+	background-color: #EA6626;
+}
+
+.righttree-col {
+	width:40%;
+	height:100%;
+	display:flex;
+	background-color: #CA1B22;
+}
+
+.dogtag-col {
+	width:20%;
+	height:100%;
+	display:flex;
+	background-color: #EA6626;
+}
+
+.sun-col {
+	width:40%;
+	height:100%;
+	display:flex;
+	background-color:green;
+}
+
+.wide-col {
+	width:60%;
+	height:100%;
+}
+	
+@media only screen and (max-width: 750px) {
+  
+}
+
+  
